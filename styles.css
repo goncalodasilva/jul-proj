@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.quiz-container {
+    margin: 50px auto;
+    max-width: 600px;
+}
+
+img {
+    max-width: 300px;
+    margin: 20px 0;
+}
+
+.options button {
+    margin: 5px;
+    padding: 8px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.score-section {
+    margin-top: 20px;
+}
+
+.result-section {
+    margin-top: 20px;
+    font-weight: bold;
+}
